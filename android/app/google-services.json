@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "752542073774",
+    "project_id": "sge-app-d4873",
+    "storage_bucket": "sge-app-d4873.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752542073774:android:c6f37afe00654a04e67e3f",
+        "android_client_info": {
+          "package_name": "com.example.event"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkfG5_fgEZRD22D-NtIUt3MHkNdYfjLto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
